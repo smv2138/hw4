@@ -1,0 +1,18 @@
+---
+title: "Sushupta Vijapur"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+
+#### MPH Candidate - Epidemiology and Applied Biostatistics 
+#### Columbia University Mailman school of Public Health
+
+## About me
+
+## Education
+
+## Hobbies
+
