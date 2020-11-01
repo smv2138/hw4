@@ -6,7 +6,55 @@ output:
     toc_float: true
 ---
 
-[LinkedIn](https://www.linkedin.com/in/sushupta-vijapur-25b944148/) 
+### Work Experience
+
+#### **Graduate Research Assistant - [Columbia University](https://www.publichealth.columbia.edu/people/our-faculty/ssm2183)**
+
+After the end of my first year of graduate school, I began working at Columbia University to study substance abuse. Over the past several months, I have worked to prepare and clean a large nationally representative dataset, consisting of 300,000 observations using R. I have worked to deal with missing data and remove duplicated observations to prepare the dataset for analysis. Following these data management steps, I began to conduct robust data analysis in R to observe associations between alcohol consumption and cannabis use. I conducted multivariable logistic regression analyses and trend analyses to observe these relationships overtime. I began to also prepare a manuscript to present these results to a peer-reviewed journal. 
+
+#### **Data Analyst - [University of Pittsburgh](https://www.rehabmedicine.pitt.edu/people/ant-49)**
+
+After graduating from the University of Pittsburgh, I became a full-time Data Analyst at the Department of Physical Medicine and Rehabilitation. My role was to perform advanced statistical analyses using SAS to model relationships between various biomarkers of interest and long-term outcomes post traumatic brain injury. A large portion of my responsibilities included cleaning and organizing large datasets to prepare for various research projects in the lab. I assisted in writing 2 large government funded grants and prepared 2 manuscripts. One of those manuscripts is currently in press. Furthermore, I mentored and trained 10 undergraduate students in statistical analyses and prepared them for research projects of their own.
+
+#### **Research Assistant - [University of Pittsburgh](https://www.rehabmedicine.pitt.edu/people/ant-49)**
+
+As an undergraduate, I began working in at the University of Pittsburgh, Department of Physical Medicine and Rehabilitation, studying biomarkers and long-term outcomes post traumatic brain injury. As a student I was tasked with organizing and extracting data from Epic and Cerner. As I learned from PhD and post-doctoral candidates at the lab, I began to use SAS and SPSS to begin my own research projects in studying hormones and their impacts on physiological outcomes post injury. I also assisted in establishing the human bio-repository of all the lab's samples.
+
+### Skills
+
+* Statistical Softwares: SAS, R, STATA, SPSS, 
+* Applications: GraphPad, Microsoft Access, Excel and Powerpoint
+* EMR Systems: EPIC and Cerner
+
+### Publications 
+
+Vijapur S.M., Yang Z, Barton D, et al. Anti-pituitary and anti-hypothalamus autoantibody associations with inflammation
+and hypogonadotropic hypogonadism in men with traumatic brain injury [published online ahead of print, 2020 Feb
+28]. J Neurotrauma. 2020;10.1089/neu.2019.6780. [doi:10.1089/neu.2019.6780](https://pubmed.ncbi.nlm.nih.gov/32111134/)
 
 
+### Conference Abstracts 
+
+#### **Oral Presentations**
+
+Vijapur, S.M., Myrga, J.M., Vaughan, L.E., Conely, Y.P., Wagner, A.K. (2019, July). COMT and ANKK1 Genetics
+Influence Il-6 Levels and Associations with Depression and Behavior following TBI. Poster presented at National
+Neurotrauma Symposium, Pittsburgh, PA
+
+#### **Abstracts**
+
+* Vijapur, S.M., Dekman, M., Vaughan, L.E., Awan, N., Kumar, R.G., Wagner, A.K. (2019, July). Lymphocyte and
+BDNF Associations with Risk for Persistent Hypogonadotropic Hypogonadism. National Neurotrauma
+Symposium, Pittsburgh, PA (Poster Trainee Finalist)
+
+* Awan, A., Vaughan, L.E., DiSanto, D., Vijapur, S.M., Wagner A.K. (2019, July). Improving Prediction of PostTraumatic Depression at 12-months after Brain Injury Using Random Forest and Logistic Regression. National
+Neurotrauma Symposium, Pittsburgh, PA
+
+* Vijapur, S.M., Kumar R.G., Ranganathan P., Yang Z., Wang K.K., Wagner A.K. (2018, August). Chronic Systemic
+Inflammation and Associations with Autoantibody Production after Traumatic Brain Injury. International and
+National Neurotrauma Symposiums, Toronto, Canada
+
+* Vijapur, S.M., Ranganathan P., Kumar R.G., Yang Z., Morel P.A., Wang K.K., Wagner A.K (2017, July). Examining
+Longitudinal Adaptive Immune Response and Relationships between IL-7 and Anti-pituitary/hypothalamic
+Autoantibodies after Severe-TBI. Poster presented at National Neurotrauma Symposium, Snowbird, Utah
 
