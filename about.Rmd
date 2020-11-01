@@ -1,11 +1,12 @@
 ---
-title: "About me"
+title: "Resume / CV"
 output: 
   html_document:
     toc: true
     toc_float: true
 ---
 
-# Thia page has information about me
+[LinkedIn](https://www.linkedin.com/in/sushupta-vijapur-25b944148/) 
 
-I am in class
+
+
