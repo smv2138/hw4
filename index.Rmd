@@ -12,14 +12,10 @@ output:
 
 ![](images/me.jpg)
 
-## Education
-
-I graduated from The [University of Pittsburgh](http://neuroscience.pitt.edu/) in 2018 with a BS in Neuroscience and a minor in Chemistry. After taking a year off to work, I started at [Columbia University Mailman School of Public Health](https://www.publichealth.columbia.edu/academics/departments/epidemiology), studying Epidemiology and Applied Biostatistics.
-
 
 ## Hobbies and Interests
 
-I have always enjoying drawing and painting. I fell away from this hobby for years but picked it up again during quarantine. I love spicy food and reading in coffee shops. I also enjoy hiking with my golden doodle (pictured above) and am unfortunately a NY Giants fan. 
+I have always enjoying drawing and painting. I fell away from this hobby for years but picked it up again during quarantine. I love spicy food and reading in coffee shops. I also enjoy hiking with my golden doodle (pictured below) and am unfortunately a NY Giants fan. 
 
 
 ## Contact Information
@@ -31,3 +27,5 @@ New York, New York 10032\
 Email: smv2138@columbia.edu\
 Phone: 908-635-7448\
 [LinkedIn](https://www.linkedin.com/in/sushupta-vijapur-25b944148/) 
+
+![](images/ollie.jpg)

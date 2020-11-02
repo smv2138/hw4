@@ -6,6 +6,14 @@ output:
     toc_float: true
 ---
 
+### Education
+[**Columbia University, Mailman School of Public Health**](https://www.publichealth.columbia.edu/academics/departments/epidemiology) New York City, NY\
+Master of Public Health in Epidemiology, Certificate in Applied Biostatistics
+
+[**University of Pittsburgh, Dietrich School of Arts and Sciences**](http://neuroscience.pitt.edu/), Pittsburgh, PA\
+Bachelor of Science in Neuroscience, Minor in Chemistry
+
+
 ### Work Experience
 
 #### **Graduate Research Assistant - [Columbia University](https://www.publichealth.columbia.edu/people/our-faculty/ssm2183)**
