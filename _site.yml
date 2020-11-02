@@ -5,6 +5,8 @@ navbar:
   right:
     - text: "Resume / CV"
       href: about.html
+    - text: "NY NOAA Graphs"
+      href: dashboard.html
     - icon: fa-envelope fa-lg
       href: mailto:<smv2138@columbia.edu>
     - icon: fa-github fa-lg

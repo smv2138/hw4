@@ -19,11 +19,11 @@ data("ny_noaa")
 
 ny_noaa = 
   ny_noaa %>% 
-  sample_n(1000) %>% 
+  sample_n(5000) %>% 
  separate(date, into = c("year", "month", "day"), convert = TRUE) %>% 
   mutate(
-    tmax = as.numeric(tmax),
-    tmin = as.numeric(tmin),
+    tmax = as.numeric(tmax) / 10,
+    tmin = as.numeric(tmin) / 10,
     snow_mm = snow,
     snow = round(snow_mm * 0.03937 * 4) / 4)
 
@@ -36,12 +36,11 @@ Column {data-width=650}
 ### Chart A
 
 ```{r}
-nyc_airbnb %>% 
-  mutate(text_label = str_c("Price: $", price, "\nRating: ", rating)) %>% 
+ny_noaa %>% 
+  mutate(text_label = str_c(year)) %>% 
   plot_ly(
-    x = ~lat, y = ~long, color = ~price, text = ~text_label, alpha = 0.5, 
+    x = ~tmin, y = ~snwd, color = ~year, text = ~text_label, 
           type = "scatter", mode = "markers")
-
 ```
 
 Column {data-width=350}
@@ -50,23 +49,28 @@ Column {data-width=350}
 ### Chart B
 
 ```{r}
-nyc_airbnb %>% 
-  mutate(neighbourhood = fct_reorder(neighbourhood, price)) %>% 
+ny_noaa %>%
+  group_by(year) %>% 
+  summarize(mean_tmax = mean(tmax, na.rm = TRUE),
+            mean_tmin = mean(tmin, na.rm = TRUE)) %>% 
+  mutate(text_label = str_c("Max Temp: ", mean_tmax)) %>% 
   plot_ly(
-    y = ~ price, x = ~neighbourhood, color = ~neighbourhood,
-    type = "box", colors = "viridis"
+    x = ~year, y = ~mean_tmin, color = ~year, text =  ~text_label,
+    type = "bar", colors = "viridis"
   )
+  
 ```
 
 ### Chart C
 
 ```{r}
-nyc_airbnb %>% 
-  count(neighbourhood) %>% 
-  mutate(neighbourhood = fct_reorder(neighbourhood, n)) %>% 
+ny_noaa %>%
+  mutate(text_label = str_c("Year ", year)) %>% 
   plot_ly(
-    x = ~neighbourhood, y = ~n, color = ~neighbourhood,
-    type = "bar", colors = "viridis"
+    x = ~month, y = ~prcp, color = ~month, text = ~text_label,
+    type = "box", colors = "viridis"
   )
+
 ```
+
 

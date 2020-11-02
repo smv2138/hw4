@@ -10,6 +10,7 @@ output:
 #### MPH Candidate - Epidemiology and Applied Biostatistics 
 #### Columbia University Mailman School of Public Health
 
+![](images/me.jpg)
 
 ## Education
 
